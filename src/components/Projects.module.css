@@ -1,0 +1,13 @@
+.project {
+    cursor: pointer; /* Change cursor to pointer on hover */
+  }
+  
+  .title {
+    font-weight: bold;
+    font-size: 0.2em;
+  }
+  
+  .description {
+    font-size: 0.1em;
+  }
+  
